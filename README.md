@@ -1,3 +1,3 @@
-# DS-440 Capston Project
+# DS-440 Capstone Project
 #
 
